@@ -33,17 +33,17 @@ if(a>b):
 else:
     print("b가 더 큽니다") #if문 쓰기
 
-#import turtle
-#t=turtle.Pen()
+import turtle
+t=turtle.Pen()
 
-#while True: #무한반복
-#	direction=input("왼쪽=left, 오르쪽=right:")
-#	if direction=="left":
-#		t.left(60)
-#		t.forward(50)
-#	if direction=="right":
-#		t.right(60)
-#		t.forward(50)
+while True: #무한반복
+	direction=input("왼쪽=left, 오르쪽=right:")
+	if direction=="left":
+		t.left(60)
+		t.forward(50)
+	if direction=="right":
+		t.right(60)
+		t.forward(50)
 
 #홀수 짝수 구별
 for i in range(0,10): #다른 반복문으로 while a<10:
