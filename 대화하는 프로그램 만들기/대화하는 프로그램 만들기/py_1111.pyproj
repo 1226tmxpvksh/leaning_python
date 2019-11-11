@@ -5,12 +5,12 @@
     <ProjectGuid>bb7f28f1-1c79-4e9e-aaf6-f00b001a3169</ProjectGuid>
     <ProjectHome>
     </ProjectHome>
-    <StartupFile>1111.py</StartupFile>
+    <StartupFile>py_1111.py</StartupFile>
     <SearchPath>
     </SearchPath>
     <WorkingDirectory>.</WorkingDirectory>
     <OutputPath>.</OutputPath>
-    <Name>1111</Name>
+    <Name>py_1111</Name>
     <RootNamespace>대화하는 프로그램 만들기</RootNamespace>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)' == 'Debug' ">
@@ -22,7 +22,7 @@
     <EnableUnmanagedDebugging>false</EnableUnmanagedDebugging>
   </PropertyGroup>
   <ItemGroup>
-    <Compile Include="1111.py" />
+    <Compile Include="py_1111.py" />
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)\Python Tools\Microsoft.PythonTools.targets" />
   <!-- Uncomment the CoreCompile target to enable the Build command in
