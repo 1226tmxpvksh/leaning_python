@@ -118,6 +118,7 @@ list1=[]
 for i in range (1,101):
 	list1.append(i)
 list1.append("a") #리스트 뒤에 추가
+print(list1)
 print(sum(list1))
 
 
