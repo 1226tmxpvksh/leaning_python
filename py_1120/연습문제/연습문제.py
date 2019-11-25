@@ -1,4 +1,4 @@
-#s=' Never put off till tomorrow what tou can do today.'
+#s=' never put off till tomorrow what tou can do today.'
 
 #print(s.split())
 #print(s.isalpha())
@@ -14,6 +14,7 @@
 #print(s.strip())
 #print(s.lstrip())
 #print(s.rstrip())
+#print(s.isalnum())
 
 #a=input("문자열을 입력하시오:") #회문 판단
 #b=len(a)
